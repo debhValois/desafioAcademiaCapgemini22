@@ -2,7 +2,7 @@
   <img alt="Logomarca" title="#NextLevelWeek" src="./screenshots/logoCapgemini.png" />
 </h1>
 
-<☕>Finalizado<☕/> JavaScript | HTML | CSS
+<center> Stauts <☕>Finalizado<☕/> JavaScript | HTML | CSS <center>
 
 # Desafio de Programação | Academia Capgemini | Março 2022
 
@@ -33,9 +33,7 @@
 
 Instrução: Digite a quantidade de degraus que você quer que a sua escada tenha e veja como ela fica.
 
-Link: https://romantic-goodall-9e44b1.netlify.app
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/c092f663-875f-4d4b-9047-2f66ce11d844/deploy-status)](https://app.netlify.com/sites/boring-wiles-f18632/deploys)
+Link:  [![Netlify Status](https://api.netlify.com/api/v1/badges/c5cf2eb0-1b9c-4b7f-91cc-851325d6821f/deploy-status)](https://debh-valois-desafio-capgemini-1-escada.netlify.app/)
 
 
 
@@ -43,7 +41,7 @@ Link: https://romantic-goodall-9e44b1.netlify.app
 
 Instrução: Você quer se registrar numa rede social. Digite um nome e uma senha para testar se são adequados.
 
-Link: https://boring-wiles-f18632.netlify.app
+Link:  [![Netlify Status](https://api.netlify.com/api/v1/badges/c092f663-875f-4d4b-9047-2f66ce11d844/deploy-status)](https://debh-valois-desafio-capgemini-2-senha.netlify.app/)
 
 
 
@@ -51,4 +49,6 @@ Link: https://boring-wiles-f18632.netlify.app
 
 Instrução: Digite duas palavras para saber se elas são anagramas entre si.
 
-Link: https://eager-fermi-4b6de9.netlify.app
+Link:  [![Netlify Status](https://api.netlify.com/api/v1/badges/4d443729-48a7-4190-8c8e-3ea538b7e054/deploy-status)](https://debh-valois-desafio-capgemini-3-anagrama.netlify.app/)
+
+
