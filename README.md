@@ -1,6 +1,14 @@
-![Logomarca da Capgemini](./questao-1-escada-js/img/logoCapgemini.png)
+<h1 align="center">
+  <img alt="Logomarca" title="#NextLevelWeek" src="./screenshots/logoCapgemini.png" />
+</h1>
+
+<☕>Finalizado<☕/> JavaScript | HTML | CSS
 
 # Desafio de Programação | Academia Capgemini | Março 2022
+
+- [x] Questão 01 - "A Escada"
+- [x] Questão 02 - "A Senha"
+- [x] Questão 03 - "O Anagrama"
 
 ## INFORMAÇÕES:
 
@@ -11,7 +19,7 @@
 
 ## ACESSIBILIDADE:
 
-- Para navegar e testar a page de cada questão, clique em seu respectivo link abaixo e abrirá uma nova aba. Teste os forms intuitivamente.
+- Para navegar e testar as pages de cada questão, clique em seu respectivo link com o botão direito do mouse e abra numa nova aba. Teste os campos intuitivamente.
 
 - Para ler os códigos fontes, basta acessá-los pelas respectivas pastas nesse repositório.
 
@@ -26,7 +34,7 @@ Link: https://romantic-goodall-9e44b1.netlify.app
 
 
 
-**Questão 02 - "A Senha**
+**Questão 02 - "A Senha"**
 
 Instrução: Você quer se registrar numa rede social. Digite um nome e uma senha para testar se são adequados.
 
