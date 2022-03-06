@@ -1,0 +1,44 @@
+<!-- Desafio Capgemnini | Questão 1 | A Escada | Debh Valois | 05/03/2022 -->
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="./style.css">
+    <link rel="icon" href="./img/logoPq.png" type="image/png">
+    <title>Escada</title>
+</head>
+<body>
+    <div>
+        <img class="logo" src="./img/logoCapgemini.png" type="image/png" alt="Logotipo da Capgemini">
+        <h3 class="debh"><☕>Debh Valois<☕/></h3>
+        <br><br>
+    </div>
+    <div class="container">
+        <!-- Página 1 - APRESENTAÇÃO -->
+        <div class="first-step">
+            <p>Desafio de Programação | Questão 1</p>
+            <button onclick="go(1,2)">Iniciar</button>
+        </div>
+        <!-- Página 2 - DIGITAR DEGRAUS -->
+        <div class="second-step">
+            <h3>A Escada</h3>
+            <hr>
+            <label for="degrau">Digite o nº de degraus:</label>
+            <input type="number" placeholder="números de 1 a 15" id="degrau">
+            <br><br>
+            <button onclick="validate()">Mostrar</button>
+        </div>
+        <!-- Página 3 - EXIBIR ESCADA -->
+        <div class="final-step">
+            <h3>Essa é a sua escada:</h3>
+            <p id="resultado"></p>
+            <!-- Menu de Navegação -->
+            <button onclick="go(3,2)">Outra Escada</button>
+            <button onclick="go(3,1)">Finalizar</button>
+        </div>
+    </div>
+    <script src="./script.js"></script>
+</body>
+</html>

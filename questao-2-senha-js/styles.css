@@ -1,0 +1,126 @@
+/* Desafio Capgemnini | Questão 2 | A Senha | Debh Valois | 05/03/2022 */
+*{
+  padding: 0;
+  margin: 0;
+}
+/* Imagem da tela inteira */
+body{ 
+  padding-top: 35vh;
+  background-image: url('../img/telaCadastroSenha.png');
+  background-size: cover;
+}
+.logo{
+  position: fixed;
+  left: 35px;
+  bottom: 45px;
+}
+.debh{
+  color: #FFF; 
+  opacity: 0.70;
+  position: fixed;
+  right: 45px;
+  bottom: 55px;
+}
+.titulo{
+  position: fixed;
+  top: 5px;
+  left: 33px;
+  color: #FFF; 
+}
+input, label{
+  display: block;
+  outline: none;
+  width: 100%;
+}  
+a{
+  color: #E60084;
+}
+/* Formuilário de login */
+#main-container{
+    width: 315px;
+    height: 310px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    padding: 15px;
+} 
+#main-container h1{
+  text-align: center;
+  margin-bottom: 25px;
+  font-size: 1.6rem;
+}
+form{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  overflow: hidden;
+} 
+
+/* Box do btn Registrar */
+.full-box{
+  flex: 1 1 100%;
+  margin-top: 45px;
+} 
+/* 2 box separados: nome e senha*/
+.half-box{
+  flex: 1 1 45%;
+  position: relative;
+}
+/* Define espçamento entre os campos Nome e Senha */
+.spacing{
+  margin-right: 5px;
+}
+/* Textos : Nome e Senha */
+label{
+  font-weight: bold;
+  font-size: .8rem;
+  color: rgb(58, 57, 57);
+}
+/* Caixas Campos */
+input{
+  border-bottom: 2px solid #E60084;
+  padding: 10px;
+  font-size: .9rem;
+  margin-bottom: 40px;
+} 
+/* Quando clicar nos campos Nome ou Senha a borda fica rosa */
+input:focus{
+  border-color: #E60084;
+}
+/* Letras dentro dos Inputs */
+input[type="lastname"] {
+  align-items: left;
+  font-size: 12px;
+}
+input[type="password"] {
+  align-items: left;
+  font-size: 12px;
+}
+/* Botão Resgistrar */
+input[type="submit"] {
+  background-color: #E60084;
+  color: #FFF;
+  border: none;
+  border-radius: 20px;
+  height: 40px;
+  cursor: pointer;
+}
+input[type="submit"]:active {
+  background-color: #E60084;
+  box-shadow: 0 5px rgba(102, 102, 102, 0.603);
+  transform: translateY(4px);
+}
+/* Mensagem de instrução - erros */
+.error-validation{
+  align-items: center;
+  font-size: 13px;
+  color: whitesmoke;
+  background-color: rgba(255, 0, 140, 0.616);
+  height: 105px;
+  padding: 4px;
+  border-radius: 5px;
+}
+/* Mensagem de instrução desaparece até ser chamada*/
+.template{
+  display: none;
+}
