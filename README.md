@@ -1,4 +1,5 @@
-![Alt ou título da imagem](./questao-1-escada-js/img/)
+![Logomarca da Capgemini](./questao-1-escada-js/img/logoCapgemini.png)
+
 # Desafio de Programação | Academia Capgemini | Março 2022
 
 ## INFORMAÇÕES:
