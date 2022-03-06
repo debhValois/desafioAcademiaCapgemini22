@@ -6,11 +6,12 @@
 
 # Desafio de Programação | Academia Capgemini | Março 2022
 
-### Desafios
+### Features
 
 - [x] Questão 01 - "A Escada"
 - [x] Questão 02 - "A Senha"
 - [x] Questão 03 - "O Anagrama"
+
 
 ## INFORMAÇÕES:
 
@@ -33,6 +34,8 @@
 Instrução: Digite a quantidade de degraus que você quer que a sua escada tenha e veja como ela fica.
 
 Link: https://romantic-goodall-9e44b1.netlify.app
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c092f663-875f-4d4b-9047-2f66ce11d844/deploy-status)](https://app.netlify.com/sites/boring-wiles-f18632/deploys)
 
 
 
