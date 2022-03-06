@@ -6,25 +6,19 @@
 
 # Desafio de Programação | Academia Capgemini | Março 2022
 
-### Features
+### Desafios
 
 - [x] Questão 01 - "A Escada"
 - [x] Questão 02 - "A Senha"
 - [x] Questão 03 - "O Anagrama"
 
 
-## INFORMAÇÕES:
-
-- Foi utlizado JavaScript com seus parceiros HTML5, CSS3 e Bootstrap no IDE VSCode.
-- Os links para navegação foram gerados do repositório da Netlify, versão gratuita.
-- Os três desafios levaram cerca de 5 dias para ficarem prontos desde pesquisa à adaptação dos algoritmos e interfaces das pages.
- 
 
 ## ACESSIBILIDADE:
 
-- Para navegar e testar as pages de cada questão, clique em seu respectivo link com o botão direito do mouse e abra numa nova aba. Teste os campos intuitivamente.
+- Para navegar e testar as pages de cada questão, clique em seu respectivo link "Netlify" com o botão direito do mouse e abra numa nova aba. Teste os campos intuitivamente.
 
-- Para ler os códigos fontes, basta acessá-los pelas respectivas pastas nesse repositório.
+- Para ler os códigos fontes, basta acessá-los diretamente pelas respectivas pastas nesse repositório.
 
 
 ## LINKS:
@@ -39,7 +33,7 @@ Link:  [![Netlify Status](https://api.netlify.com/api/v1/badges/c5cf2eb0-1b9c-4b
 
 **Questão 02 - "A Senha"**
 
-Instrução: Você quer se registrar numa rede social. Digite um nome e uma senha para testar se são adequados.
+Instrução: Você está prestes a se registrar em uma rede social. Digite um nome e uma senha para testar descobrir se são adequados.
 
 Link:  [![Netlify Status](https://api.netlify.com/api/v1/badges/c092f663-875f-4d4b-9047-2f66ce11d844/deploy-status)](https://debh-valois-desafio-capgemini-2-senha.netlify.app/)
 
@@ -50,5 +44,17 @@ Link:  [![Netlify Status](https://api.netlify.com/api/v1/badges/c092f663-875f-4d
 Instrução: Digite duas palavras para saber se elas são anagramas entre si.
 
 Link:  [![Netlify Status](https://api.netlify.com/api/v1/badges/4d443729-48a7-4190-8c8e-3ea538b7e054/deploy-status)](https://debh-valois-desafio-capgemini-3-anagrama.netlify.app/)
+
+
+
+## TECNOLOGIAS:
+
+- Para os algorítimos foi utilizada a linguagem de programação JavaScript.
+- Para a estrutura das pages & linkagem HTML5.
+- Para a estilização dos layouts CSS3.
+- Para repositórios Git, GitHub & Netlify.
+- Tudo foi editado e rodado no IDE VSCode.  <br/> 
+
+- Os três desafios levaram cerca de 6 dias para ficarem prontos entre: pesquisa, adaptação dos algoritmos, interfaces das pages, organização deployers e readme.
 
 
