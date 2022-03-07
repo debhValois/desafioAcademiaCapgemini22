@@ -65,12 +65,16 @@ Link:  [![Netlify Status](https://api.netlify.com/api/v1/badges/4d443729-48a7-41
 
 ## A Candidata
 
-![<sub>Debh Valois</sub>](./screenshots/autora.jpeg)
-| :---: | Brasil | :---: |
+
+<h1 align="left" img size="50%">
+  <img alt="Retrato" title="Debh Valois" src="./screenshots/autora.jpeg"/>
+</h1>
+
 
 <a href="https://www.linkedin.com/in/debhvaloispsy/" alt="LinkedIn" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
 </a>
+
 
 <a href="https://wa.me/message/ONHPRA62USWYK1" alt="WhatsApp" target="_blank">
 <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5584981430120"/>
