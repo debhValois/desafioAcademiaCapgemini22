@@ -45,13 +45,13 @@ Digite duas palavras para saber se elas são anagramas entre si.
 
 ## :hammer_and_wrench: Tecnologias Utilizadas:
 
-- Para os algorítimos a linguagem de programação *JavaScript*.
+- Para os algorítimos: a linguagem de programação *JavaScript*.
 
-- Para a estrutura das pages & linkagem *HTML5*.
+- Para a estrutura das pages & linkagem: *HTML5*.
 
-- Para a estilização dos layouts *CSS3*.
+- Para a estilização dos layouts: *CSS3*.
 
-- Para repositórios *Git*, *GitHub* & *Netlify*.
+- Para repositórios: *Git*, *GitHub* & *Netlify*.
 
 - Tudo foi editado e rodado no IDE *VSCode*. 
 
