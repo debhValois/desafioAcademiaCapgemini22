@@ -4,7 +4,7 @@
 
 <p align="center"> Status <☕>Finalizado<☕/> JavaScript | HTML | CSS </p>
 
-# Desafio de Programação | Academia Capgemini
+# Desafio de Programação | Academia Capgemini 2022
 
 ### Desafios
 
@@ -12,17 +12,15 @@
 - [x] Questão 02 - **A Senha**
 - [x] Questão 03 - **O Anagrama**
 
-<br/>
 
-## 📁 ACESSIBILIDADE:
+## 📁 Acessibilidade:
 
 - Para ler os códigos fonte, basta acessá-los diretamente em suas respectivas pastas nesse repositório.     
 
 - Para navegar e testar as pages de cada questão, clique abaixo em seus respectivos links *Netlify* com o scroll ou com botão direito do mouse para abri-las em uma nova guia. Uma vez na page, teste os campos intuitivamente.
 
-<br/>
 
-## LINKS:
+## Links das Pages:
 
 ### Questão 01 - "A Escada"
 
@@ -30,7 +28,6 @@ Digite a quantidade de degraus que você quer que a sua escada tenha e veja como
 
 - Link:  [![Netlify Status](https://api.netlify.com/api/v1/badges/c5cf2eb0-1b9c-4b7f-91cc-851325d6821f/deploy-status)](https://debh-valois-desafio-capgemini-1-escada.netlify.app/)
 
-<br/>
 
 ### Questão 02 - "A Senha"
 
@@ -38,7 +35,6 @@ Você está prestes a se registrar em uma rede social, digite nome e senha para 
 
 - Link:  [![Netlify Status](https://api.netlify.com/api/v1/badges/c092f663-875f-4d4b-9047-2f66ce11d844/deploy-status)](https://debh-valois-desafio-capgemini-2-senha.netlify.app/)
 
-<br/>
 
 ### Questão 03 - "O Anagrama"
 
@@ -46,11 +42,10 @@ Digite duas palavras para saber se elas são anagramas entre si.
 
 - Link:  [![Netlify Status](https://api.netlify.com/api/v1/badges/4d443729-48a7-4190-8c8e-3ea538b7e054/deploy-status)](https://debh-valois-desafio-capgemini-3-anagrama.netlify.app/)
 
-<br/>
 
-## TECNOLOGIAS:
+## Tecnologias Utilizadas:
 
-- Para os algorítimos foi utilizada a linguagem de programação *JavaScript*.
+- Para os algorítimos a linguagem de programação *JavaScript*.
 
 - Para a estrutura das pages & linkagem *HTML5*.
 
@@ -60,13 +55,11 @@ Digite duas palavras para saber se elas são anagramas entre si.
 
 - Tudo foi editado e rodado no IDE *VSCode*. 
 
-<br/>
 
 Os três desafios levaram cerca de 6 dias para ficarem prontos entre: pesquisa, adaptação dos algoritmos, interfaces das pages, organização deployers e readme.
 
-<br/>
 
-## A Candidata
+## A Autora
 
 <table>
   <tr>
