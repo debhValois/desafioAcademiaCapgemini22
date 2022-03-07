@@ -20,7 +20,7 @@
 - Para navegar e testar as pages de cada questão, clique abaixo em seus respectivos links *Netlify* com o scroll ou com botão direito do mouse para abri-las em uma nova guia. Uma vez na page, teste os campos intuitivamente.
 
 
-## Links das Pages:
+## :earth_americas: Links das Pages:
 
 ### Questão 01 - "A Escada"
 
@@ -43,7 +43,7 @@ Digite duas palavras para saber se elas são anagramas entre si.
 - Link:  [![Netlify Status](https://api.netlify.com/api/v1/badges/4d443729-48a7-4190-8c8e-3ea538b7e054/deploy-status)](https://debh-valois-desafio-capgemini-3-anagrama.netlify.app/)
 
 
-## Tecnologias Utilizadas:
+## :hammer_and_wrench: Tecnologias Utilizadas:
 
 - Para os algorítimos a linguagem de programação *JavaScript*.
 
@@ -59,7 +59,7 @@ Digite duas palavras para saber se elas são anagramas entre si.
 Os três desafios levaram cerca de 6 dias para ficarem prontos entre: pesquisa, adaptação dos algoritmos, interfaces das pages, organização deployers e readme.
 
 
-## A Autora
+## :octocat: A Autora: 
 
 <table>
   <tr>
